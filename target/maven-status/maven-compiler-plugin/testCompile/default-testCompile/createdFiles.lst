@@ -1,7 +1,7 @@
-config/Base.class
-pages/SolutionsPage.class
-stepdefs/ServiceHooks.class
-stepdefs/StepDefinitions.class
-pages/HomePage.class
-pages/AboutPage.class
+pages\SolutionsPage.class
+stepdefs\StepDefinitions.class
+pages\HomePage.class
+pages\AboutPage.class
+stepdefs\ServiceHooks.class
+config\Base.class
 TestRunner.class
